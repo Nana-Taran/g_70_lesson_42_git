@@ -10,4 +10,4 @@
 4. Зарегистрироваться на GitHub (или использовать уже существующий аккаунт) - https://github.com/
 5. Привязать Idea к аккаунту на GitHub (File - Settings - Version Control - GitHub)
 6. Настроить терминал (File - Settings - Tools - Terminal), например, выбрать C:\Program Files\Git\bin\bash.exe
-7. Зарегистрировать в Git ваши емейл и имя пользователя
+7. Зарегистрировать в Git ваши имейл и имя пользователя
